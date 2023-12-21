@@ -14,8 +14,8 @@ from pathlib import Path
 import os
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
-BASE_DIR = 'paraphrase_translator_project'
-TEMP_DIR = 'paraphrase_translator_project/paraphrase_translator_app/templates'
+BASE_DIR = ''
+TEMP_DIR = 'paraphrase_translator_app/templates'
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
