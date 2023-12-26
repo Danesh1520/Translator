@@ -15,4 +15,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'paraphrase_translator_project.s
 
 application = get_wsgi_application()
 
-app = application
+#app = application
